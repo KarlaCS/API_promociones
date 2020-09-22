@@ -1,0 +1,6 @@
+com\example\promociones\dto\PromocionDTO.class
+com\example\promociones\SwaggerConfig.class
+com\example\promociones\restapp\PromocionesController.class
+com\example\promociones\PromocionesApplication.class
+com\example\promociones\entity\Promocion.class
+com\example\promociones\repository\PromocionRepository.class
